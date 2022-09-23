@@ -1,1 +1,1 @@
-# Spectra
+# Small OpenGl Engine for the basics of 3D graphics.
