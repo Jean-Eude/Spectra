@@ -1,0 +1,2 @@
+- Smoothness = inverse de roughness map
+	= 1.0f - roughnessmap;

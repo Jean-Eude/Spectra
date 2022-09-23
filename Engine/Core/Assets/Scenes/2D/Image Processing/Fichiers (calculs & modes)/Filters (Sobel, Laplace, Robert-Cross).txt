@@ -1,0 +1,3 @@
+- On peut appliquer un flou gaussien avant détection des bords
+
+- Laplace sensible au "noise".

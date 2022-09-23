@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers sources\App">
+      <UniqueIdentifier>{77c42999-63e9-45bf-9285-1183819417d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Scene">
+      <UniqueIdentifier>{64e12e8b-501d-4b48-a6c3-57c033a68a61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Imgui">
+      <UniqueIdentifier>{dab725a7-fd3e-4930-9e7c-3e11a0b9caca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Scene">
+      <UniqueIdentifier>{df6b3f41-8788-462a-8fe4-badef6c11247}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Imgui">
+      <UniqueIdentifier>{684c15e1-1e72-4295-9191-efaf4e447abb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Dependencies\include\glad\glad.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Utils\Headers.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Window\Window.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\App.cpp">
+      <Filter>Fichiers sources\App</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\GUI\GUI.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\include\imgui\imgui.cpp">
+      <Filter>Fichiers sources\Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\include\imgui\imgui_draw.cpp">
+      <Filter>Fichiers sources\Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\include\imgui\imgui_impl_glfw.cpp">
+      <Filter>Fichiers sources\Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\include\imgui\imgui_impl_opengl3.cpp">
+      <Filter>Fichiers sources\Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\include\imgui\imgui_tables.cpp">
+      <Filter>Fichiers sources\Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\include\imgui\imgui_widgets.cpp">
+      <Filter>Fichiers sources\Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Utils\Shader.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Mesh\Quad.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Mesh\Cube.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Mesh\Pyramid.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Mesh\Quad2D.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Mesh\Triangle.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Utils\tex.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Utils\stb_image.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Camera\Matrix.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Models\Mesh.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Models\Model.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Camera\Camera.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Mesh\Sphere.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Mesh\Plane.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Assets\Scenes\3D\ATB\ATB (Blinn_Phong)\A_Textured_Box_BP.cpp">
+      <Filter>Fichiers sources\Scene</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Core\Utils\Headers.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Window\Window.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\GUI\GUI.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\include\imgui\imconfig.h">
+      <Filter>Fichiers d%27en-tête\Imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\include\imgui\imgui.h">
+      <Filter>Fichiers d%27en-tête\Imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\include\imgui\imgui_impl_glfw.h">
+      <Filter>Fichiers d%27en-tête\Imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\include\imgui\imgui_impl_opengl3.h">
+      <Filter>Fichiers d%27en-tête\Imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\include\imgui\imgui_internal.h">
+      <Filter>Fichiers d%27en-tête\Imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\include\imgui\imstb_rectpack.h">
+      <Filter>Fichiers d%27en-tête\Imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\include\imgui\imstb_textedit.h">
+      <Filter>Fichiers d%27en-tête\Imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\include\imgui\imstb_truetype.h">
+      <Filter>Fichiers d%27en-tête\Imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Utils\Shader.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Mesh\Quad.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Mesh\Cube.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Mesh\Pyramid.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Mesh\Quad2D.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Mesh\Triangle.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Utils\tex.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Camera\Matrix.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Models\Mesh.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Models\Model.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Camera\Camera.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Mesh\Sphere.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Mesh\Plane.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Assets\Scenes\3D\ATB\ATB (Blinn_Phong)\A_Textured_Box_BP.h">
+      <Filter>Fichiers d%27en-tête\Scene</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

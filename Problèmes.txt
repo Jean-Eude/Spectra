@@ -1,0 +1,3 @@
+- Trouver un moyen pour automatiser les Shapes pour pour avoir la position, la texture, la couleurs et normales (vertices) + indices (sphere fait / reste le plane pour tesselation et le quad pour tesselation aussi)
+
+- Class Transform pour les lights
