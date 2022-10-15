@@ -1,5 +1,5 @@
-#ifndef CUBE_H
-#define CUBE_H
+#ifndef _CUBE_H_
+#define _CUBE_H_
 
 #include "../Utils/Headers.h"
 

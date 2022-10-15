@@ -1,5 +1,5 @@
-#ifndef PYRAMID_H
-#define PYRAMID_H
+#ifndef _PYRAMID_H_
+#define _PYRAMID_H_
 
 #include "../Utils/Headers.h"
 

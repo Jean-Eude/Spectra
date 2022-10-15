@@ -1,5 +1,5 @@
-#ifndef PLANE_H
-#define PLANE_H
+#ifndef _PLANE_H_
+#define _PLANE_H_
 
 #include "../Utils/Headers.h"
 

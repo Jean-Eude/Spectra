@@ -1,5 +1,5 @@
-#ifndef MODEL_H
-#define MODEL_H
+#ifndef _MODEL_H_
+#define _MODEL_H_
 
 #include "../Utils/Headers.h"
 #include "Mesh.h"

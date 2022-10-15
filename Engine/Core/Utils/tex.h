@@ -1,5 +1,5 @@
-#ifndef TEXTURE_H
-#define TEXTURE_H
+#ifndef _TEXTURE_H_
+#define _TEXTURE_H_
 
 #include "Headers.h"
 

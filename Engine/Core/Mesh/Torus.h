@@ -1,5 +1,5 @@
-#ifndef TORUS_H
-#define TORUS_H
+#ifndef _TORUS_H_
+#define _TORUS_H_
 
 #include "../Utils/Headers.h"
 

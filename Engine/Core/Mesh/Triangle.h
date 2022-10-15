@@ -1,5 +1,5 @@
-#ifndef TRIANGLE_H
-#define TRIANGLE_H
+#ifndef _TRIANGLE_H_
+#define _TRIANGLE_H_
 
 #include "../Utils/Headers.h"
 

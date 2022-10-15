@@ -1,5 +1,5 @@
-#ifndef WINDOW_H
-#define WINDOW_H
+#ifndef _WINDOW_H_
+#define _WINDOW_H_
 
 #include "../Utils/Headers.h"
 

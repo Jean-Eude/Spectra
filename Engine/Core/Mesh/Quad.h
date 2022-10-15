@@ -1,5 +1,5 @@
-#ifndef QUAD_H
-#define QUAD_H
+#ifndef _QUAD_H_
+#define _QUAD_H_
 
 #include "../Utils/Headers.h"
 

@@ -1,5 +1,5 @@
-#ifndef GUI_H
-#define GUI_H
+#ifndef _GUI_H_
+#define _GUI_H_
 
 #include "../Utils/Headers.h"
 

@@ -1,4 +1,0 @@
-﻿  A_Textured_Box_BP.cpp
-C:\Users\Evan Combot\Desktop\Engines\Spectra\Engine\Core\Assets\Scenes\3D\ATB\ATB (Blinn_Phong)\A_Textured_Box_BP.cpp(121,47): warning C4244: 'argument' : conversion de 'int' en 'GLfloat', perte possible de données
-C:\Users\Evan Combot\Desktop\Engines\Spectra\Engine\Core\Assets\Scenes\3D\ATB\ATB (Blinn_Phong)\A_Textured_Box_BP.cpp(178,47): warning C4244: 'argument' : conversion de 'int' en 'GLfloat', perte possible de données
-  Engine.vcxproj -> C:\Users\Evan Combot\Desktop\Engines\Spectra\x64\Debug\Engine.exe
