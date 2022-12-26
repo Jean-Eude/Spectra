@@ -1,1 +1,1 @@
-# Small OpenGl Engine for the basics of 3D graphics.
+# Small OpenGL Engine for the basics of 3D graphics.
