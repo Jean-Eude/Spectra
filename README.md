@@ -5,26 +5,26 @@ I - 2D
 
 Création de différents filtres et effets pour des images.
 
-<img src="img/base.png" width="100" height="100">
-<img src="img/base.png" width="100" height="100">
-<img src="img/base.png" width="100" height="100">
-<img src="img/base.png" width="100" height="100">
-<img src="img/base.png" width="100" height="100">
-<img src="img/base.png" width="100" height="100">
-<img src="img/base.png" width="100" height="100">
-<img src="img/base.png" width="100" height="100">
-<img src="img/base.png" width="100" height="100">
-<img src="img/base.png" width="100" height="100">
-<img src="img/base.png" width="100" height="100">
-<img src="img/base.png" width="100" height="100">
-<img src="img/base.png" width="100" height="100">
-<img src="img/base.png" width="100" height="100">
-<img src="img/base.png" width="100" height="100">
-<img src="img/base.png" width="100" height="100">
+<img src="img/base.png" width="1024" height="1024">
+<img src="img/base.png" width="1024" height="1024">
+<img src="img/base.png" width="1024" height="1024">
+<img src="img/base.png" width="1024" height="1024">
+<img src="img/base.png" width="1024" height="1024">
+<img src="img/base.png" width="1024" height="1024">
+<img src="img/base.png" width="1024" height="1024">
+<img src="img/base.png" width="1024" height="1024">
+<img src="img/base.png" width="1024" height="1024">
+<img src="img/base.png" width="1024" height="1024">
+<img src="img/base.png" width="1024" height="1024">
+<img src="img/base.png" width="1024" height="1024">
+<img src="img/base.png" width="1024" height="1024">
+<img src="img/base.png" width="1024" height="1024">
+<img src="img/base.png" width="1024" height="1024">
+<img src="img/base.png" width="1024" height="1024">
 
 
-<img src="img/base.png" width="100" height="100">
-<img src="img/base.png" width="100" height="100">
+<img src="img/base.png" width="1024" height="1024">
+<img src="img/base.png" width="1024" height="1024">
 
 
 
