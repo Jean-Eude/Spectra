@@ -26,16 +26,11 @@ Création de différents filtres et effets pour des images.
 <img src="img/nm.png" width="1024" height="558">
 
 
-<img src="img/br.png" width="1024" height="558">
-<img src="img/sa.png" width="1024" height="558">
-
-
-
-
 II - 3D
 
 
-
+<img src="img/br.png" width="1024" height="558">
+<img src="img/sa.png" width="1024" height="558">
 
 
 III - + Autres tests (2D / 3D)
